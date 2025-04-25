@@ -19,3 +19,5 @@
 // const heading = document.getElementById('main-heading'); // Use for unique ID
 // const buttons = document.getElementsByClassName('btn'); // Use for multiple buttons
 //  Use code with caution.
+
+
